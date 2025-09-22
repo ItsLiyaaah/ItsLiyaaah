@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="coding-gif" width="400"/>
 </p>
 
-<h1 align="center">Hi, I'm ItsLiyaaah! 👋</h1>
+<h1 align="center">Hi,  ItsLiyaaah! 👋</h1>
 <h3 align="center">Front-End Dev | Digital Artist </h3>
 
 ---

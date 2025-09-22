@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm ItsLiyaaah! 👋</h1>
-<h3 align="center">Front-End Dev | Digital Creator | Tech Enthusiast</h3>
+<h3 align="center">Front-End Dev | Digital Artist </h3>
 
 ---
 
@@ -26,16 +26,6 @@
 - **Frameworks:** Laravel  
 - **Design Tools:** Photoshop, Illustrator  
 - **Projects:** Full-stack applications, creative web projects
-
----
-
-## 🏆 Featured Projects
-
-| Project | Description |
-| ------- | ----------- |
-| [my-draft](https://github.com/ItsLiyaaah/my-draft) | Personal work-in-progress project 🚧 |
-| [AcadexV3](https://github.com/B0GARTT00/AcadexV3) | Contributed to an academic platform 📚 |
-| [Acadex-v2](https://github.com/xaviworks/Acadex-v2) | Academic web platform (contributor) 🏫 |
 
 ---
 

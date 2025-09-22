@@ -37,13 +37,6 @@
 
 ---
 
-## 🎉 Fun Facts
-
-- 📢 Advocate for digital literacy and tech empowerment
-- 🎨 Love making digital art and exploring design
-- 🤝 Always open to collaboration and new ideas!
-
----
 
 ## 📫 Let’s Connect!
 

@@ -40,11 +40,8 @@
 
 ## 📫 Let’s Connect!
 
-<!-- Add your social links here -->
-<!-- Example:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
--->
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
+**Discord:** isabella7639
 
 ---
 

@@ -12,7 +12,7 @@
 
 🙋‍♀️ 4th year student passionate about **front-end development** and all things creative!  
 🎨 Skilled in **Photoshop** & **Illustrator**  
-🛠️ Main stack: **PHP** & **Laravel** (but love full-stack projects!)  
+🛠️ Main stack: **PHP** & **Laravel**  
 🚀 Always learning, always building, always advocating for **digital literacy**  
 💡 I thrive on continuous learning and keeping up with progressing technologies!
 
@@ -36,14 +36,12 @@
 | [my-draft](https://github.com/ItsLiyaaah/my-draft) | Personal work-in-progress project 🚧 |
 | [AcadexV3](https://github.com/B0GARTT00/AcadexV3) | Contributed to an academic platform 📚 |
 | [Acadex-v2](https://github.com/xaviworks/Acadex-v2) | Academic web platform (contributor) 🏫 |
-| [LeahArgs09](https://github.com/ItsLiyaaah/LeahArgs09) | Another creative coding project ✨ |
-| [AcadexFinalVer-main](https://github.com/ItsLiyaaah/AcadexFinalVer-main) | Final version of Acadex project 🎓 |
 
 ---
 
 ## 🌱 Currently Growing
 
-- Exploring new web dev trends & frameworks
+- Exploring new web dev trends & frameworks like **REACT + VITE**
 - Getting deeper into Laravel magic 🪄
 - Sharpening UI/UX design skills
 

@@ -40,9 +40,11 @@
 
 ## 📫 Let’s Connect!
 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
-**Discord:** isabella7639
-**Gmail** leahrglls@gmail.com
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/isabella7639)  
+**Discord:** isabella7639  
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leahrglls@gmail.com)  
+**Gmail:** leahrglls@gmail.com
 
 ---
 

@@ -20,7 +20,7 @@
 
 ## 💻 Tech Toolbox
 
-<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,figma,ps,ai,vscode" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,figma,ps,ai,vscode,react.js" alt="Tech stack" />
 
 - **Languages:** PHP, HTML, CSS, JavaScript  
 - **Frameworks:** Laravel  

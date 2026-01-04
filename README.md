@@ -42,6 +42,7 @@
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
 **Discord:** isabella7639
+**Gmail** leahrglls@gmail.com
 
 ---
 

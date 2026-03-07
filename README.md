@@ -45,8 +45,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="creative-dev" width="250"/>
-</p>
+
 
 <p align="center"><b>Thanks for stopping by! 🌈✨</b></p>

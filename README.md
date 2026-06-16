@@ -7,9 +7,9 @@
 
 ## 🌟 About Me
 
-🙋‍♀️ 4th year student passionate about **front-end development** and all things creative!  
+🙋‍♀️ Web developer passionate about **front-end development** and all things creative!  
 🎨 Skilled in **Photoshop** & **Illustrator**  
-🛠️ Main stack: **PHP** & **Laravel**  
+🛠️ Main stack: **PHP** & **Laravel** & **React**
 🚀 Always learning, always building, always advocating for **digital literacy**  
 💡 I thrive on continuous learning and keeping up with progressing technologies!
 

@@ -15,7 +15,7 @@
 
 ---
 
-## 💻 Tech Toolbox
+## 💻 Techstack
 
 <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,figma,ps,ai,vscode,react" alt="Tech stack" />
 

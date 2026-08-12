@@ -20,9 +20,9 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,figma,ps,ai,vscode,react" alt="Tech stack" />
 
 - **Languages:** PHP, HTML, CSS, JavaScript  
-- **Frameworks:** Laravel  
-- **Design Tools:** Photoshop, Illustrator  
-- **Projects:** Full-stack applications, creative web projects
+- **Frameworks:** Laravel, ReactJs, React+Vite
+- **Design Tools:** Photoshop, Illustrator, Figma
+- **Projects:** Business/ Commercial Websites, Personal Websites
 
 ---
 
